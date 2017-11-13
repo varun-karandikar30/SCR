@@ -1,0 +1,27 @@
+
+.Parent{
+	width: 30%;
+	margin-left: 35%;
+	background-color: white;
+	padding: 10px;
+	padding-right: 25px;
+	border-radius: 9px;
+	box-shadow: 2px 2px 5px black;
+	transition: all 0.25s ease-out;
+	font-family: 'Raleway', sans-serif;
+}
+
+.Parent:hover{
+	transform: scale(1);
+	transition: all 0.25s ease;
+}
+
+.Parent h2{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}
+
+.radio{
+	margin-top: 15px;
+}
+
